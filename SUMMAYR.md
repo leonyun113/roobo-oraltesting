@@ -1,4 +1,4 @@
 # Summary
 
 * [Summay](README.md)
-* [API readme](main/readme.md)
+* [API readme](main/README.md)
